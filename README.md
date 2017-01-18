@@ -1,5 +1,5 @@
 # Flipper the Robot
-Patrick Coleman, Jack Mendeville, Caleb Chuang, Jack Chen, Roxy Promhouse
+Patrick Coleman, Jack Mandeville, Caleb Chuang, Jack Chen, Roxy Promhouse
 
 Used an Arduino and Lego Mindstorms to create a small, yellow, autonomous robot in a group of 5.
 
